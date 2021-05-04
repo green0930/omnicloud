@@ -1,0 +1,20 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "This is a detailed description of your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Initialwave/omnicloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Initialwave/omnicloud/issues"
+  },
+  "homepage": "https://gitlab.com/Initialwave/omnicloud#readme"
+}
